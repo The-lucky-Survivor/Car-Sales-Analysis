@@ -411,7 +411,7 @@ Data Quality:
 
 | Resource | Link |
 |----------|------|
-| **Jupyter Notebook** | [notebooks/Car_Price-Analysis.ipynb](notebooks/Car%20Price-Analysis.ipynb) |
+| **Jupyter Notebook** | [notebooks/Car_Price-Analysis.ipynb](notebooks/Car_Price%20Analysis.ipynb) |
 | **Power BI Dashboard** | [dashboard/Car_Sales_Dashboard.pbix](dashboard/Project_Car%20Analysis.pbix) |
 | **Raw Dataset** | [data/CAR-DETAILS-FROM-CAR-DEKHO.csv](data/CAR%20DETAILS%20FROM%20CAR%20DEKHO.csv) |
 | **Requirements** | [requirements.txt](requirements.txt) |
