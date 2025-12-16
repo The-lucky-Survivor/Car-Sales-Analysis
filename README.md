@@ -282,8 +282,8 @@ python-dotenv   >= 0.21.0
 |------|------|-----------|----------|
 | **Seif El-Dein Ayman** | Data Scientist & Lead | ML Models, Analysis | [Profile](https://eg.linkedin.com/in/seif-el-dein-ayman-9942702b9?utm_source=share&utm_medium=member_mweb&utm_campaign=share_via&utm_content=profile) |
 | **Ibrahim Al-Ashry** | Data Analyst | EDA, Insights | [Profile](https://eg.linkedin.com/in/ibrahem-elashry-aa6032307?utm_source=share&utm_medium=member_mweb&utm_campaign=share_via&utm_content=profile) |
-| ** Ahmed Ashraf 3** | BI Developer | Dashboard Design | [Profile](https://eg.linkedin.com/in/ahmed-ashraf-fawzy-fouad-ibrahim-issa-alhaitawi) |
-| ***Abdallah El-Mallah** | Project Manager | Documentation | [Profile](https://eg.linkedin.com/in/abdallah-el-mallah?utm_source=share&utm_medium=member_mweb&utm_campaign=share_via&utm_content=profile) |
+| **Ahmed Ashraf** | BI Developer | Dashboard Design | [Profile](https://eg.linkedin.com/in/ahmed-ashraf-fawzy-fouad-ibrahim-issa-alhaitawi) |
+| **Abdallah El-Mallah** | Project Manager | Documentation | [Profile](https://eg.linkedin.com/in/abdallah-el-mallah?utm_source=share&utm_medium=member_mweb&utm_campaign=share_via&utm_content=profile) |
 
 ### Acknowledgments
 - 🙏 Special thanks to **Car Dekho** for the dataset
