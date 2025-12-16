@@ -23,6 +23,8 @@ A comprehensive **Data Science Project** that analyzes 4,340+ used car records a
 - [Technologies Used](#-technologies-used)
 - [Team](#-team)
 - [Documentation](#-documentation)
+- [Usage Examples](#-usage-examples)
+- [Quick Links](#-quick-links)
 - [License](#-license)
 
 ---
@@ -299,7 +301,7 @@ python-dotenv   >= 0.21.0
 
 
 ### Jupyter Notebook
-- **[Car_Price-Analysis.ipynb](notebooks/Car_Price-Analysis.ipynb)** - Complete analysis pipeline
+- **[Car_Price-Analysis.ipynb](notebooks/Car_Price%20Analysis.ipynb)** - Complete analysis pipeline
   - Data exploration (5 cells)
   - Data cleaning (8 cells)
   - Feature engineering (6 cells)
@@ -307,8 +309,9 @@ python-dotenv   >= 0.21.0
   - Model building (15 cells)
   - Results analysis (5 cells)
 
+
 ### Power BI Dashboard
-- **[Car_Sales_Dashboard.pbix](dashboard/Car_Sales_Dashboard.pbix)** - Interactive dashboards
+- **[notebooks/Car_Price Analysis.ipynb](dashboard/Project_Car%20Analysis.pbix)** - Interactive dashboards
   - Overview dashboard with KPIs
   - Detailed analysis dashboard
 
@@ -408,9 +411,9 @@ Data Quality:
 
 | Resource | Link |
 |----------|------|
-| **Jupyter Notebook** | [notebooks/Car_Price-Analysis.ipynb](notebooks/Car_Price-Analysis.ipynb) |
-| **Power BI Dashboard** | [dashboard/Car_Sales_Dashboard.pbix](dashboard/Car_Sales_Dashboard.pbix) |
-| **Raw Dataset** | [data/CAR-DETAILS-FROM-CAR-DEKHO.csv](data/CAR-DETAILS-FROM-CAR-DEKHO.csv) |
+| **Jupyter Notebook** | [notebooks/Car_Price-Analysis.ipynb](notebooks/Car%20Price-Analysis.ipynb) |
+| **Power BI Dashboard** | [dashboard/Car_Sales_Dashboard.pbix](dashboard/Project_Car%20Analysis.pbix) |
+| **Raw Dataset** | [data/CAR-DETAILS-FROM-CAR-DEKHO.csv](data/CAR%20DETAILS%20FROM%20CAR%20DEKHO.csv) |
 | **Requirements** | [requirements.txt](requirements.txt) |
 | **License** | [LICENSE](LICENSE) |
 
